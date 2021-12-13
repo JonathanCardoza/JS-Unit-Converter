@@ -19,6 +19,7 @@ nav {
     width: 20%;
 }
 nav ul {
+    width: 15em;
     margin: 0;
     padding: 0;
     list-style: none;
